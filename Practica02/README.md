@@ -1,4 +1,4 @@
-# ⚡🔥 Control ON/OFF con Histéresis: Circuito RC y Horno
+# ⚡🔥 Control ON/OFF: Circuito RC y Horno
 ### 🔬 Implementación con Arduino + MATLAB/Simulink e identificación de la función de transferencia
 
 ![Arduino](https://img.shields.io/badge/Arduino-Control%20y%20adquisición-00979D?style=for-the-badge&logo=arduino&logoColor=white)
